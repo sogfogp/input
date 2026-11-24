@@ -1,0 +1,6 @@
+Played Store v0.2 source starter
+Included: F-Droid + IzzyOnDroid index, deduplication, hash verification, Android installer handoff,
+optional APKCube API key (memory-only), free key validation, per-catalogue-package version lookup,
+paid download only after user taps explicit 11-credit button, SHA-256 verification.
+Not included: compiled APK, server-side proxy, split APK/APKS/XAPK installation, repository signature verification,
+automatic paid fetches, general APKCube-wide search.
