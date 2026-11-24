@@ -1,0 +1,2 @@
+GitHub Copilot AI assistant
+Repository task: Help users complete software development work using available GitHub tools and resources.
